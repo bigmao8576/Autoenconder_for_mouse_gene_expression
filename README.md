@@ -18,6 +18,5 @@ Train a specific fold:
 
 ```
 python3 AE_fold <fold_number> --hidden_num <hidden_number>
-
 ```
 
